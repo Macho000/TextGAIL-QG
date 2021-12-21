@@ -1,0 +1,6 @@
+./日付順
+./log
+/data/SQuAD1.0/*
+!train-v1.0.json
+!dev-v1.0.json
+/data/SQuAD2.0/
