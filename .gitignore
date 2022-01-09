@@ -1,6 +1,10 @@
-./日付順
-./log
+/日付順/
+/log/
+/lightning_logs/
 /data/SQuAD1.0/*
 !train-v1.0.json
 !dev-v1.0.json
+!train.json
+!dev.json
+!test.json
 /data/SQuAD2.0/
